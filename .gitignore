@@ -1,0 +1,26 @@
+# MATLAB temporary files
+*.asv
+*.autosave
+*.m~
+*.bak
+
+# MATLAB cache / generated metadata
+slprj/
+codegen/
+*.mex*
+*.mlappinstall
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor settings
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.log
+
+# MATLAB project cache
+resources/project/
