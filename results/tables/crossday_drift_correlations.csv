@@ -1,0 +1,4 @@
+PerformanceMetric,SpearmanCorrelationWithCrossDayDrift
+F1,-0.616666666666667
+FRR,0.569042637953892
+EER,0.316666666666667
