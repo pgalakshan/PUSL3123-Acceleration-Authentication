@@ -1,0 +1,2 @@
+Domain,FeatureSelection,FeatureCount,Architecture,Repeats,TrainingDay,TestingDay
+TimeD_FreqD,mRMR,80,48-24,10,FDay,MDay
